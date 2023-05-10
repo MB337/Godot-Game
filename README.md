@@ -1,5 +1,5 @@
 # Skully's Plunder
-[License: MIT](https://img.shields.io/github/license/MB337/Godot-Game)
+<img src="https://img.shields.io/github/license/MB337/Godot-Game?style=for-the-badge" />
 
 Welcome to our pirate platformer game repository! This game is being developed by Daniele Mazzacani, Matteo Bianchi, Federico Sangaletti, and Edoardo Pesa. Our goal is to create an exciting, immersive game that transports players into the world of pirates and adventure.
 
